@@ -3,3 +3,65 @@
         max-width: 90%;
     }
 }
+@media only screen and (max-width: 1350px) {
+    .top-slider h2{
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 1350px) {
+    .top-slider h2{
+        font-size: 35px;
+    }
+}
+@media only screen and (max-height: 800px) {
+    .slick-slide{
+        padding: 4% 0;
+    }
+}
+@media only screen and (max-width: 991px){
+    header .header-logo {
+        width: 90px;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    .services-section h3 {
+        font-size: 20px;
+    }
+    .item {
+        width: 48%;
+    }
+}
+@media only screen and (max-width: 670px) {
+    .wrapper {
+        max-width: 95%;
+    }
+    .top-menu li a{
+        font-size: 14px;
+    }
+
+}
+@media only screen and (max-width: 575px) {
+    .fp-section{
+        position: relative;
+    }
+    .header-blocks{
+        width: 100%;
+        text-align: center;
+    }
+    .header-blocks .justify-content-end {
+        -ms-flex-pack: justify!important;
+        justify-content: space-between!important;
+    }
+    header .header-logo{
+        margin-bottom: 10px;
+    }
+    .top-menu li a{
+        padding-left: 10px;
+    }
+    .top-slider h2{
+        font-size: 26px;
+        letter-spacing: -2px;
+    }
+
+}

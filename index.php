@@ -36,11 +36,11 @@ function url(){
 <div class="top-section">
     <header>
         <div class="wrapper">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-sm">
+            <div class="row justify-content-between align-items-center no-gutters">
+                <div class="header-blocks">
                     <img src="<?=url() ?>assets/images/LOGO-white.svg" alt="Erasofts" class="header-logo" >
                 </div>
-                <div class="col-sm">
+                <div class="header-blocks">
                     <ul class="list-unstyled list-group list-group-horizontal top-menu justify-content-end">
                         <li >
                             <a href="#our-services">Our Services</a>
@@ -62,7 +62,7 @@ function url(){
                 <div>
                     <div class="text-cont">
                         <div class="row">
-                            <div class="col-md-5">
+                            <div class="col-md-5 col-sm-6">
                                 <h2 class="4_text">
                                     <span class="single" style="transition-delay: 0.4s;">W</span>
                                     <span class="single" style="transition-delay: 0.45s;">e</span>
@@ -80,19 +80,21 @@ function url(){
                                     <span class="single" style="transition-delay: 1.05s;">t</span>
                                 </h2>
                                 <p>
-                                    We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                                    Inquest for strong-minded development team?<br>
+                                    Here you are! We are willing to provide the development and unstoppable support for your website.<br>
+                                    Our team provides invulnerable code with stunning interface and incredible mobile experience.
                                 </p>
                                 <a href="#contact-us" class="get-in-touch-btn">Get in touch</a>
                             </div>
-                            <div class="col-md-7"></div>
+                            <div class="col-md-7 col-sm-6"></div>
                         </div>
                     </div>
 
                     <div class="fp-section">
                         <div>
                             <div class="row ">
-                                <div class="col-md-5"></div>
-                                <div class="col-md-7">
+                                <div class="col-md-5 col-sm-6"></div>
+                                <div class="col-md-7 col-sm-6">
                                     <img src="<?=url() ?>assets/images/topslide-2.png" alt="web development">
                                 </div>
                             </div>
@@ -104,7 +106,7 @@ function url(){
                 <div>
                     <div class="text-cont">
                         <div class="row">
-                            <div class="col-md-5">
+                            <div class="col-md-5 col-sm-6">
                                 <h2 class="4_text">
                                     <span class="single" style="transition-delay: 0.4s;">Q</span>
                                     <span class="single" style="transition-delay: 0.45s;margin-right: 30px">A</span>
@@ -118,19 +120,20 @@ function url(){
                                     <span class="single" style="transition-delay: 0.85s;">g</span>
                                 </h2>
                                 <p>
-                                    We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                                    Eager to be confident in the tech quality of your website? Keep in mind!
+                                    Our QA group detects even the smallest and tiniest issues on your website. No drawback can be left unnoticeable.
                                 </p>
                                 <a href="#contact-us" class="get-in-touch-btn">Get in touch</a>
                             </div>
-                            <div class="col-md-7"></div>
+                            <div class="col-md-7 col-sm-6"></div>
                         </div>
                     </div>
 
                     <div class="fp-section">
                         <div>
                             <div class="row ">
-                                <div class="col-md-5"></div>
-                                <div class="col-md-7">
+                                <div class="col-md-5 col-sm-6"></div>
+                                <div class="col-md-7 col-sm-6">
                                     <img src="<?=url() ?>assets/images/top-web-dev.png" alt="web development">
                                 </div>
                             </div>
@@ -142,7 +145,7 @@ function url(){
                 <div>
                     <div class="text-cont">
                         <div class="row">
-                            <div class="col-md-5">
+                            <div class="col-md-5 col-sm-6">
                                 <h2 class="4_text">
                                     <span class="single" style="transition-delay: 0.4s;">M</span>
                                     <span class="single" style="transition-delay: 0.45s;">a</span>
@@ -159,15 +162,15 @@ function url(){
                                 </p>
                                 <a href="#contact-us" class="get-in-touch-btn">Get in touch</a>
                             </div>
-                            <div class="col-md-7"></div>
+                            <div class="col-md-7 col-sm-6"></div>
                         </div>
                     </div>
 
                     <div class="fp-section">
                         <div>
                             <div class="row ">
-                                <div class="col-md-5"></div>
-                                <div class="col-md-7">
+                                <div class="col-md-5 col-sm-6"></div>
+                                <div class="col-md-7 col-sm-6">
                                     <img src="<?=url() ?>assets/images/topslide-3.png" alt="web development">
                                 </div>
                             </div>
