@@ -281,6 +281,7 @@ footer p{
     float: left;
     margin: 0 1% 2% 1%;
     position: relative;
+    /*min-height: 340px;*/
 
 }
 .all-items .item{
@@ -533,4 +534,9 @@ body .filter-content.all-items #container{
 }
 .fp-section,.fp-section div{
     height: 100%;
+}
+.project-website{
+    padding-top: 83%;
+    background-size: contain;
+    background-repeat: no-repeat;
 }

@@ -253,7 +253,8 @@ function url(){
             <div id="container">
                 <div class="item wordpress webdesign">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/mikeRegina.png" alt="mikeRegina">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/mikeRegina.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/mikeRegina.png" alt="mikeRegina">-->
                         <div class="item-overlay">
                             <h2>Mike Regina</h2>
                             <a href="https://www.mikeregina.io/" target="_blank" class="view-website">Visit Website</a>
@@ -266,7 +267,8 @@ function url(){
                 </div>
                 <div class="item laravel webdesign">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/mustangcpu.png" alt="Mustang CPU">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/mustangcpu.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/mustangcpu.png" alt="Mustang CPU">-->
                         <div class="item-overlay">
                             <h2>Mustang CPU</h2>
                             <a href="https://www.mustangcpu.com/" target="_blank" class="view-website">Visit Website</a>
@@ -279,7 +281,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/4x4.png" alt="av4x4">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/4x4.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/4x4.png" alt="av4x4">-->
                         <div class="item-overlay">
                             <h2>av4x4</h2>
                             <a href="http://av4x4.com/" target="_blank" class="view-website">Visit Website</a>
@@ -292,7 +295,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/bravethewoods.png" alt="bravethewoods">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/bravethewoods.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/bravethewoods.png" alt="bravethewoods">-->
                         <div class="item-overlay">
                             <h2>Brave the woods</h2>
                             <a href="http://bravethewoods.com/" target="_blank" class="view-website">Visit Website</a>
@@ -305,7 +309,8 @@ function url(){
                 </div>
                 <div class="item laravel webdesign">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/valenzano-vine.png" alt="mikeRegina">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/valenzano-vine.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/valenzano-vine.png" alt="mikeRegina">-->
                         <div class="item-overlay">
                             <h2>Valenzano Wine</h2>
                             <a href="http://158.106.138.242/" target="_blank" class="view-website">Visit Website</a>
@@ -318,7 +323,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/gooshoreca.png" alt="gooshoreca">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/gooshoreca.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/gooshoreca.png" alt="gooshoreca">-->
                         <div class="item-overlay">
                             <h2>Gooshoreca</h2>
                             <a href="https://www.gooshoreca.nl/" target="_blank" class="view-website">Visit Website</a>
@@ -331,7 +337,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/big-sky.png" alt="mikeRegina">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/big-sky.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/big-sky.png" alt="mikeRegina">-->
                         <div class="item-overlay">
                             <h2>Big Sky LLC</h2>
                             <a href="https://bigskyllc.com/" target="_blank" class="view-website">Visit Website</a>
@@ -344,7 +351,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/drunensruiterhuis.png" alt="drunensruiterhuis">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/drunensruiterhuis.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/drunensruiterhuis.png" alt="drunensruiterhuis">-->
                         <div class="item-overlay">
                             <h2>Drunens Ruiterhuis</h2>
                             <a href="https://www.drunensruiterhuis.nl/" target="_blank" class="view-website">Visit Website</a>
@@ -357,7 +365,8 @@ function url(){
                 </div>
                 <div class="item laravel webdesign">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/usbpi.png" alt="usbpi">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/usbpi.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/usbpi.png" alt="usbpi">-->
                         <div class="item-overlay">
                             <h2>U.S. Business P.I.</h2>
                             <a href="https://usbpi.com" target="_blank" class="view-website">Visit Website</a>
@@ -370,7 +379,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/horecaworld.png" alt="horecaworld">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/horecaworld.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/horecaworld.png" alt="horecaworld">-->
                         <div class="item-overlay">
                             <h2>Horeca World</h2>
                             <a href="https://www.horecaworld.biz/" target="_blank" class="view-website">Visit Website</a>
@@ -383,7 +393,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/iba.png" alt="iba">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/iba.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/iba.png" alt="iba">-->
                         <div class="item-overlay">
                             <h2>IBA</h2>
                             <a href="https://ibagroup.io/" target="_blank" class="view-website">Visit Website</a>
@@ -396,7 +407,8 @@ function url(){
                 </div>
                 <div class="item laravel">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/tutella.png" alt="tutella">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/tutella.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/tutella.png" alt="tutella">-->
                         <div class="item-overlay">
                             <h2>Tutella</h2>
                             <a href="http://tutella.io/index.html" target="_blank" class="view-website">Visit Website</a>
@@ -409,7 +421,8 @@ function url(){
                 </div>
                 <div class="item wordpress webdesign">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/epabinc.png" alt="epabinc">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/epabinc.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/epabinc.png" alt="epabinc">-->
                         <div class="item-overlay">
                             <h2>Epabinc</h2>
                             <a href="https://epabinc.com/" target="_blank" class="view-website">Visit Website</a>
@@ -422,7 +435,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/cfpc.png" alt="cross fit">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/cfpc.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/cfpc.png" alt="cross fit">-->
                         <div class="item-overlay">
                            <h2>Crossfit Portchester</h2>
                             <a href="https://crossfitportchester.com/personal-training/" target="_blank" class="view-website">Visit Website</a>
@@ -435,7 +449,8 @@ function url(){
                 </div>
                 <div class="item wordpress">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/ecoact.png" alt="Ecology Action">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/ecoact.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/ecoact.png" alt="Ecology Action">-->
                         <div class="item-overlay">
                             <h2>Ecology Action</h2>
                             <a href="https://ecoact.org/" target="_blank" class="view-website">Visit Website</a>
@@ -448,7 +463,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/gastrosteel.png" alt="gastrosteel">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/gastrosteel.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/gastrosteel.png" alt="gastrosteel">-->
                         <div class="item-overlay">
                             <h2>Gastrosteel</h2>
                             <a href="https://www.gastrosteel.nl/" target="_blank" class="view-website">Visit Website</a>
@@ -461,7 +477,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/drcomfort.png" alt="drcomfort">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/drcomfort.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/drcomfort.png" alt="drcomfort">-->
                         <div class="item-overlay">
                             <h2>Dr.Comfort</h2>
                             <a href="https://www.drcomfort.com/" target="_blank" class="view-website">Visit Website</a>
@@ -474,7 +491,8 @@ function url(){
                 </div>
                 <div class="item shopify">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/contornobelts.png" alt="contornobelts">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/contornobelts.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/contornobelts.png" alt="contornobelts">-->
                         <div class="item-overlay">
                             <h2>Contorno Belts</h2>
                             <a href="https://contornobelts.com/" target="_blank" class="view-website">Visit Website</a>
@@ -487,7 +505,8 @@ function url(){
                 </div>
                 <div class="item magento">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/livingproof.png" alt="livingproof">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/livingproof.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/livingproof.png" alt="livingproof">-->
                         <div class="item-overlay">
                             <h2>Living proof</h2>
                             <a href="https://www.livingproof.com/home" target="_blank" class="view-website">Visit Website</a>
@@ -500,7 +519,8 @@ function url(){
                 </div>
                 <div class="item shopify">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/lindsayletters.png" alt="lindsayletters">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/lindsayletters.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/lindsayletters.png" alt="lindsayletters">-->
                         <div class="item-overlay">
                             <h2>Lindsay Letters</h2>
                             <a href="https://lindsayletters.co/" target="_blank" class="view-website">Visit Website</a>
@@ -513,7 +533,8 @@ function url(){
                 </div>
                 <div class="item shopify">
                     <div class="item-content">
-                        <img src="<?=url() ?>assets/images/concrete-matter.png" alt="contornobelts">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/concrete-matter.png')"></div>
+<!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
                         <div class="item-overlay">
                             <h2>Concrete matter</h2>
                             <a href="https://www.concrete-matter.com/" target="_blank" class="view-website">Visit Website</a>
