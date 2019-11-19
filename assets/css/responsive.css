@@ -29,7 +29,28 @@
         font-size: 20px;
     }
     .item {
-        width: 48%;
+        width: 47%;
+    }
+    #container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #filters li a{
+        font-size: 13px;
+    }
+    #filters li {
+        margin: 2px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .contact-form-box .row {
+        margin-bottom: 0;
+    }
+    .contact-form-box .row input.form-control,.checkbox-content,.contact-form-box .row textarea{
+        margin-bottom: 15px;
+    }
+    .item-overlay h2{
+        font-size: 14px;
     }
 }
 @media only screen and (max-width: 670px) {
@@ -39,7 +60,12 @@
     .top-menu li a{
         font-size: 14px;
     }
-
+    body .filter-content.all-items #container {
+        height: 900px!important;
+    }
+    .project-tags{
+        display: none;
+    }
 }
 @media only screen and (max-width: 575px) {
     .fp-section{

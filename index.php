@@ -554,7 +554,7 @@ function url(){
     </div>
 </div>
 <div class="contact-us" id="contact-us">
-    <div class="container">
+    <div class="wrapper">
        <h2 class="text-center">Get In Touch</h2>
         <p class="text-center">It is a long established fact that a reader will be distracted </p>
         <div class="contact-form-box">
