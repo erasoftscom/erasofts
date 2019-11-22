@@ -547,7 +547,7 @@
        <h2 class="text-center">Get In Touch</h2>
         <p class="text-center">It is a long established fact that a reader will be distracted </p>
         <div class="contact-form-box">
-            <form action="!#" method="GET">
+            <form action="!#" method="GET" id="get-in-touch" onsubmit="sendSlackNotification()">
                 <div class="row">
                     <div class="col-md-6">
                         <input type="text" class="form-control" name="name" placeholder="Name">
@@ -557,24 +557,31 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="development" name="development" />
+                            <input type="checkbox" class="checkbox" id="development" name="development" value="development"/>
                             <label for="development">Development & Support</label>
                         </div>
 
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="testing" name="testing" />
+                            <input type="checkbox" class="checkbox" id="testing" name="testing" value="testing" />
                             <label for="testing">QA & Testing</label>
                         </div>
 
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="marketing" name="marketing" />
+                            <input type="checkbox" class="checkbox" id="marketing" name="marketing" value="marketing" />
                             <label for="marketing">Marketing & SEO</label>
+                        </div>
+
+                    </div>
+                    <div class="col-md-3">
+                        <div class="checkbox-content">
+                            <input type="checkbox" class="checkbox" id="design" name="design" value="design" />
+                            <label for="marketing">Design</label>
                         </div>
 
                     </div>
@@ -715,6 +722,17 @@
         $( "#loadMore" ).on('click', function() {
             $(this).parents('.recent-projects').find('.filter-content').removeClass("all-items");
         });
+        function sendSlackNotification(){
+var url = "https://hooks.zapier.com/hooks/catch/5246632/o4aavw6/?name="+$("#get-in-touch").find("input[name='name']").val()+"&email="+$("#get-in-touch").find("input[name='email']").val()+"&message="+$("#get-in-touch").find("textarea[name='message']").val()+"&development="+$("#get-in-touch").find("input[name='development']:checked").val()+"&testing="+$("#get-in-touch").find("input[name='testing']:checked").val()+"&marketing="+$("#get-in-touch").find("input[name='marketing']:checked").val()+"&design="+$("#get-in-touch").find("input[name='design']:checked").val();
+
+
+$.ajax({url: url, success: function(result){
+alert("Thank you for your Message! we will contact you as soon as possible!");
+}});
+return false;
+
+}
+
     </script>
 </body>
 </html>
