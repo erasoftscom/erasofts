@@ -186,7 +186,7 @@ function url(){
 <div class="services-section" id="our-services">
     <div class="wrapper">
         <div class="white-banner">
-            <h2>IT Development Services and Skills for Your Needs</h2>
+            <h2>Your Software to the new Era</h2>
         </div>
         <h2 class="text-center">Our Services</h2>
         <p class="text-center">It is a long established fact that a reader will be distracted
