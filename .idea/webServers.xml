@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="772a2d0f-6cdc-4d15-9f65-7700542b76bf" name="ftp.crossfitportchester.com" url="http://ftp.crossfitportchester.com">
+        <fileTransfer host="ftp.crossfitportchester.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
