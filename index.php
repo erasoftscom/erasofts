@@ -192,43 +192,49 @@ function url(){
         <p class="text-center">It is a long established fact that a reader will be distracted
             by the readable content of</p>
         <div class="row">
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/development.svg"  alt="Development & Support">
                     </div>
                     <div>
                         <h3>Development & Support</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Inquest for strong-minded development team?<br>
+                            Here you are! We are willing to provide the development and unstoppable support for your website.<br>
+                            Our team provides invulnerable code with stunning interface and incredible mobile experience.
+
                         </p>
                     </div>
                 </div>
 
             </div>
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/testing.svg"  alt="QA & Testing">
                     </div>
                     <div>
                         <h3>QA & Testing</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Eager to be confident in the tech quality of your website? Keep in mind!
+                            Our QA group detects even the smallest and tiniest issues on your website. No drawback can be left unnoticeable.
+
                         </p>
                     </div>
                 </div>
 
             </div>
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/marketing.svg"  alt="Marketing">
                     </div>
                     <div>
                         <h3>Marketing</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Eager to be confident in the tech quality of your website? Keep in mind!
+                            Our QA group detects even the smallest and tiniest issues on your website. No drawback can be left unnoticeable.
                         </p>
                     </div>
                 </div>

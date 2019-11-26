@@ -549,4 +549,11 @@ body .filter-content.all-items #container{
     .contact-form-box .col-md-6 {
         margin-bottom: 0!important;
     }
+    .services-section .h100 {
+        text-align: center;
+    }
+    .services-section h3:before {
+        right: 0;
+        margin: 0 auto;
+    }
 }
