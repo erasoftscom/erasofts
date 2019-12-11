@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f0fa6d7-0c8a-4a7d-b21b-e7b8ea6ad4b1" name="server.testhorecaworld.nl" url="http://server.testhorecaworld.nl">
+        <fileTransfer host="server.testhorecaworld.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed4c675f-cb12-4f9b-812b-2b664166ae53" name="dev14r.testhorecaworld.nl" url="http://server.testhorecaworld.nl">
+        <fileTransfer host="server.testhorecaworld.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
