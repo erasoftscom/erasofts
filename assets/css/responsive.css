@@ -12,6 +12,9 @@
     .top-slider h2{
         font-size: 35px;
     }
+    .all-items .item:nth-child(-n+18) {
+        display: block!important;
+    }
 }
 @media only screen and (max-height: 800px) {
     .slick-slide{
