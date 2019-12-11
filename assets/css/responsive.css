@@ -7,6 +7,9 @@
     .top-slider h2{
         font-size: 40px;
     }
+    .all-items .item:nth-child(-n+15) {
+        display: block!important;
+    }
 }
 @media only screen and (max-width: 1250px) {
     .top-slider h2{
