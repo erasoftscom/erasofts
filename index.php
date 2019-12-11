@@ -186,49 +186,55 @@ function url(){
 <div class="services-section" id="our-services">
     <div class="wrapper">
         <div class="white-banner">
-            <h2>IT Development Services and Skills for Your Needs</h2>
+            <h2>Your Software to the new Era</h2>
         </div>
         <h2 class="text-center">Our Services</h2>
         <p class="text-center">It is a long established fact that a reader will be distracted
             by the readable content of</p>
         <div class="row">
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/development.svg"  alt="Development & Support">
                     </div>
                     <div>
                         <h3>Development & Support</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Inquest for strong-minded development team?<br>
+                            Here you are! We are willing to provide the development and unstoppable support for your website.<br>
+                            Our team provides invulnerable code with stunning interface and incredible mobile experience.
+
                         </p>
                     </div>
                 </div>
 
             </div>
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/testing.svg"  alt="QA & Testing">
                     </div>
                     <div>
                         <h3>QA & Testing</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Eager to be confident in the tech quality of your website? Keep in mind!
+                            Our QA group detects even the smallest and tiniest issues on your website. No drawback can be left unnoticeable.
+
                         </p>
                     </div>
                 </div>
 
             </div>
-            <div class="col-sm">
-                <div class="h100 d-flex">
+            <div class="col-md-4 col-sm-12">
+                <div class="h100">
                     <div class="img-cont">
                         <img src="<?=url() ?>assets/images/marketing.svg"  alt="Marketing">
                     </div>
                     <div>
                         <h3>Marketing</h3>
                         <p>
-                            We provide both back-end and front-end development. Our teams build web applications powewordpress by bulletproof code, with stunning interfaces based on responsive web design.
+                            Eager to be confident in the tech quality of your website? Keep in mind!
+                            Our QA group detects even the smallest and tiniest issues on your website. No drawback can be left unnoticeable.
                         </p>
                     </div>
                 </div>
@@ -248,6 +254,16 @@ function url(){
                 <li><a href="javascript:void (0)" data-filter=".laravel">#laravel</a></li>
                 <li><a href="javascript:void (0)" data-filter=".shopify">#shopify</a></li>
                 <li><a href="javascript:void (0)" data-filter=".webdesign">#webdesign</a></li>
+                <li><a href="javascript:void (0)" data-filter=".codeigniter">#codeigniter</a></li>
+                <li><a href="javascript:void (0)" data-filter=".drupal">#drupal</a></li>
+                <li><a href="javascript:void (0)" data-filter=".joomla">#joomla</a></li>
+                <li><a href="javascript:void (0)" data-filter=".opencart">#opencart</a></li>
+                <li><a href="javascript:void (0)" data-filter=".prestashop">#prestashop</a></li>
+                <li><a href="javascript:void (0)" data-filter=".woocommerce">#woocommerce</a></li>
+                <li><a href="javascript:void (0)" data-filter=".nodejs">#nodejs</a></li>
+                <li><a href="javascript:void (0)" data-filter=".reactjs">#reactjs</a></li>
+                <li><a href="javascript:void (0)" data-filter=".vuejs">#vuejs</a></li>
+                <li><a href="javascript:void (0)" data-filter=".angular">#angular</a></li>
     <!--            <li><a href="javascript:void (0)" data-filter=".magento, .laravel">magento and laravel</a></li>-->
             </ul>
             <div id="container">
@@ -545,6 +561,1176 @@ function url(){
                         </div>
                     </div>
                 </div>
+
+                <div class="item codeigniter">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/HumHub.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>HumHub</h2>
+                            <a href="http://www.humhub.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Codeigniter</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item codeigniter">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/stay.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Stay</h2>
+                            <a href="http://www.stay.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Codeigniter</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item drupal">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/campagnacenter.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>The Campagna Center</h2>
+                            <a href="http://www.campagnacenter.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Drupal</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item drupal">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/chathamhouse.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Chatham House</h2>
+                            <a href="https://www.chathamhouse.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Drupal</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item drupal">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/crs.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>CRS</h2>
+                            <a href="https://crs.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Drupal</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item drupal">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/edukame.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Edukame</h2>
+                            <a href="http://edukame.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Drupal</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item drupal">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/peer1.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Aptum</h2>
+                            <a href="http://peer1.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Drupal</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="item joomla">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/joomla/guggenheim.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Guggenheim</h2>
+                            <a href="http://www.guggenheim.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Joomla</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item joomla">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/joomla/thefashionspot.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>TFS</h2>
+                            <a href="http://www.thefashionspot.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Joomla</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item joomla">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/joomla/unric.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>UNRIC</h2>
+                            <a href="http://www.unric.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Joomla</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item opencart">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/opencart/bocage.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Bocage</h2>
+                            <a href="http://www.bocage.fr/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#OpenCart</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item opencart">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/opencart/calicocottage.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Calico Cottage</h2>
+                            <a href="https://www.calicocottage.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#OpenCart</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item opencart">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/opencart/lumz.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Lumz</h2>
+                            <a href="https://www.lumz.nl/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#OpenCart</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item opencart">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/opencart/t-shirtbox.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>T-shirtbox</h2>
+                            <a href="http://t-shirtbox.it/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#OpenCart</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item prestashop">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/prestashop/shoes.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Shoes</h2>
+                            <a href="http://www.shoes.ma/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#PrestaShop</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item prestashop">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/prestashop/abiessence.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Abiessence</h2>
+                            <a href="http://www.abiessence.com//" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#PrestaShop</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item prestashop">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/prestashop/kinousses.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Kinousses</h2>
+                            <a href="http://www.kinousses.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#PrestaShop</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item prestashop">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/prestashop/snkrs.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Snkrs</h2>
+                            <a href="http://www.snkrs.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#PrestaShop</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item prestashop">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/prestashop/timefy.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>timefy</h2>
+                            <a href="http://www.timefy.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#PrestaShop</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item woocommerce">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/woocommerce/cupcake.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Cupcake Studio</h2>
+                            <a href="http://cupcake.com.ua/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#WooCommerce</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item woocommerce">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/woocommerce/dineamic.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Dineamic</h2>
+                            <a href="http://www.dineamic.com.au/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#WooCommerce</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item woocommerce">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/woocommerce/jhornig.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>J. Hornig</h2>
+                            <a href="http://www.jhornig.at/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#WooCommerce</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item woocommerce">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/woocommerce/pickybars.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>PickyBars</h2>
+                            <a href="http://pickybars.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#WooCommerce</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item woocommerce">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/woocommerce/porterandyork.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Porter & York</h2>
+                            <a href="http://porterandyork.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#WooCommerce</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/1x.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>1x</h2>
+                            <a href="https://1x.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/arlenerutenberg.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Arlene Rutenberg</h2>
+                            <a href="https://www.arlenerutenberg.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/firusas.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Firusas</h2>
+                            <a href="https://firusas.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/hiltonhyland.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Hilton & Hyland</h2>
+                            <a href="https://www.hiltonhyland.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/jonathanradford.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Jonathan P. Radford</h2>
+                            <a href="https://jonathanradford.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/metaview.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Metaview</h2>
+                            <a href="https://metaview.eu/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/moscatello.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Moscatello</h2>
+                            <a href="https://moscatello.it/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/node-nzbcloud.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>NZB Cloud</h2>
+                            <a href="http://node.nzbcloud.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/oand3.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>O & 3</h2>
+                            <a href="https://www.oand3.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/radiomilwaukee.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Radio Milwaukee</h2>
+                            <a href="https://radiomilwaukee.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/soapmedia.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Soap Media</h2>
+                            <a href="https://www.soapmedia.co.uk/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/staak.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Staak</h2>
+                            <a href="https://www.staak.co.uk/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/tagpic.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Tagpic</h2>
+                            <a href="https://tagpic.jp/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item nodejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/nodejs/yousign.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Yousign</h2>
+                            <a href="https://yousign.com/en-uk" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#NodeJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/ab-finance.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>AB Finance</h2>
+                            <a href="https://ab.finance/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/bang-olufsen.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Bang & Olufsen</h2>
+                            <a href="https://www.bang-olufsen.com/en" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/boonsupply.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Boon Supply</h2>
+                            <a href="https://www.boonsupply.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/camiloalvarez.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Camilo Alvarez</h2>
+                            <a href="http://www.camiloalvarez.com/en/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/chobani.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Chobani</h2>
+                            <a href="https://www.chobani.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/clearmotion.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Clear Motion</h2>
+                            <a href="http://www.clearmotion.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/insideasiatours.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Inside Asia Tours</h2>
+                            <a href="https://www.insideasiatours.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/invisionapp.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>InVision</h2>
+                            <a href="https://www.invisionapp.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/lebonnet.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Le Bonnet</h2>
+                            <a href="https://lebonnet.nl/en" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/makespacegroup.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>makespace</h2>
+                            <a href="https://makespacegroup.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/moxy-studio.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Moxy Studio</h2>
+                            <a href="https://moxy.studio/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/noodle.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Noodle</h2>
+                            <a href="https://noodle.ai/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/sabcomeed.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Sabcomeed</h2>
+                            <a href="https://sabcomeed.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item reactjs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/react/uber-design.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Uber</h2>
+                            <a href="https://www.uber.design/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#ReactJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/alprimecapital.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Alprime</h2>
+                            <a href="https://www.alprimecapital.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/amsterdam.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2> Baas Amsterdam</h2>
+                            <a href="https://baas.amsterdam/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/anotherescape.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Another Escape</h2>
+                            <a href="https://anotherescape.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/everyday-needs.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Everyday needs</h2>
+                            <a href="https://www.everyday-needs.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/icetea.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Icetea</h2>
+                            <a href="https://icetea.ge/en" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/jiaszeto.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Jia Szeto</h2>
+                            <a href="http://jiaszeto.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/meandem.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>ME + EM</h2>
+                            <a href="https://www.meandem.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/melonfashion.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Melon Fashion</h2>
+                            <a href="http://office.melonfashion.ru/en/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs" >
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/oliviapalermo.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Olivia Palermo</h2>
+                            <a href="https://oliviapalermo.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/polugar.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Polugar</h2>
+                            <a href="https://polugar.club/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/prodotti-id.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Prodotti</h2>
+                            <a href="http://www.prodotti-id.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/signifly.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Signifly</h2>
+                            <a href="https://signifly.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/wallimage.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Wallimage</h2>
+                            <a href="https://www.wallimage.be/fr" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item vuejs">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/vuejs/winchestercollege.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Winchester College</h2>
+                            <a href="https://www.winchestercollege.org/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#VueJS</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/aclens.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>ACLens</h2>
+                            <a href="http://www.aclens.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/barri.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Barri</h2>
+                            <a href="http://www.barri.com.ar/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/danielgreen.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Daniel Green</h2>
+                            <a href="http://www.danielgreen.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/duotix.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Duotix</h2>
+                            <a href="https://www.duotix.be/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/expressbank.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Express Bank</h2>
+                            <a href="https://www.expressbank.dk/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/femmefatale.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Femme Fatale</h2>
+                            <a href="https://www.femmefatale.paris/en" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/fournier-pere-fils.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Fournier Pere & Fils</h2>
+                            <a href="https://fournier-pere-fils.com/home" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/g-uld.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>g-uld</h2>
+                            <a href="https://www.g-uld.dk/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/generalmills.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>General Mills</h2>
+                            <a href="http://www.generalmills.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/lepetitcambodge.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Lepetit Cambodge</h2>
+                            <a href="https://lepetitcambodge.fr/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/maestrobcn.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Maestro</h2>
+                            <a href="http://www.maestrobcn.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/move-matise.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Move Matise</h2>
+                            <a href="https://move.matise.amsterdam/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/mrleight.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Mr. Leight</h2>
+                            <a href="https://mrleight.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/orchids.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Orchids & So</h2>
+                            <a href="https://www.orchids-and-so.nl/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/samsaraubud.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Samsara Ubud</h2>
+                            <a href="https://www.samsaraubud.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/standrews.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>St Andrews</h2>
+                            <a href="https://www.standrews.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item angular">
+                    <div class="item-content">
+                        <div class="project-website" style="background-image: url('<?=url() ?>assets/images/angular/tasteatlas.png')"></div>
+                        <!--                        <img src="--><?//=url() ?><!--assets/images/concrete-matter.png" alt="contornobelts">-->
+                        <div class="item-overlay">
+                            <h2>Taste Atlas</h2>
+                            <a href="https://www.tasteatlas.com/" target="_blank" class="view-website">Visit Website</a>
+                            <div class="project-tags">
+                                <span>#Angular</span>
+                                <span>#WebDevelopment</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
             <div class="text-center">
                 <a href="#" id="loadMore">Load More</a>
@@ -568,26 +1754,30 @@ function url(){
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-6" style="margin-bottom: 20px;">
                         <div class="checkbox-content">
                             <input type="checkbox" class="checkbox" id="development" />
                             <label for="development">Development & Support</label>
                         </div>
 
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6" style="margin-bottom: 20px;">
                         <div class="checkbox-content">
                             <input type="checkbox" class="checkbox" id="testing" />
                             <label for="testing">QA & Testing</label>
                         </div>
-
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <div class="checkbox-content">
                             <input type="checkbox" class="checkbox" id="marketing" />
-                            <label for="marketing">QA & Testing</label>
+                            <label for="marketing">Marketing & SEO</label>
                         </div>
-
+                    </div>
+                    <div class="col-md-6">
+                        <div class="checkbox-content">
+                            <input type="checkbox" class="checkbox" id="design" />
+                            <label for="design">Design</label>
+                        </div>
                     </div>
                 </div>
                 <div class="row">
