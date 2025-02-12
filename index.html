@@ -1505,62 +1505,7 @@
     </div>
 </div>
 <div class="contact-us" id="contact-us">
-    <div class="wrapper">
-       <h2 class="text-center">Get In Touch</h2>
-        <p class="text-center">It is a long established fact that a reader will be distracted </p>
-        <div class="contact-form-box">
-            <form action="!#" method="GET" id="get-in-touch" onsubmit="sendSlackNotification(); return false;">
-                <div class="row">
-                    <div class="col-md-6">
-                        <input type="text" class="form-control" name="name" placeholder="Name">
-                    </div>
-                    <div class="col-md-6">
-                        <input type="email" name="email" class="form-control" placeholder="Email">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6" style="margin-bottom: 20px;">
-                        <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="development" name="development" value="development"/>
-                            <label for="development">Development & Support</label>
-                        </div>
-
-                    </div>
-                    <div class="col-md-6" style="margin-bottom: 20px;">
-                        <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="testing" name="testing" value="testing" />
-                            <label for="testing">QA & Testing</label>
-                        </div>
-
-                    </div>
-                    <div class="col-md-6">
-                        <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="marketing" name="marketing" value="marketing" />
-                            <label for="marketing">Marketing & SEO</label>
-                        </div>
-
-                    </div>
-                    <div class="col-md-6">
-                        <div class="checkbox-content">
-                            <input type="checkbox" class="checkbox" id="design" name="design" value="design" />
-                            <label for="design">Design</label>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <textarea name="message"   class="form-control" placeholder="Message"></textarea>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <button type="submit">Send</button>
-                    </div>
-                </div>
-            </form>
-        </div>
-    </div>
+    <div id="zf_div_Aaupx5drYhRAilJBfQ0_gbYqr1fnRXLY0HMyVWZfPDo"></div>
 </div>
 <footer>
     <div class="container text-center">
@@ -1572,6 +1517,50 @@
     <script src="/assets/js/bootstrap.min.js"></script>
     <script src="/assets/js/slick.min.js"></script>
     <script src="/assets/js/jquery.isotope.min.js"></script>
+    <script type="text/javascript">(function() {
+        try{
+            var f = document.createElement("iframe");
+            f.src = 'https://forms.zohopublic.com/artur4/form/ContactForm/formperma/Aaupx5drYhRAilJBfQ0_gbYqr1fnRXLY0HMyVWZfPDo?zf_rszfm=1';
+            f.style.border="none";
+            f.style.height="874px";
+            f.style.width="100%";
+            f.style.background="#fff";
+            f.style.transition="all 0.5s ease";
+            f.setAttribute("aria-label", 'Contact\x20Form');
+
+            var d = document.getElementById("zf_div_Aaupx5drYhRAilJBfQ0_gbYqr1fnRXLY0HMyVWZfPDo");
+            d.appendChild(f);
+            window.addEventListener('message', function (){
+                var evntData = event.data;
+                if( evntData && evntData.constructor == String ){
+                    var zf_ifrm_data = evntData.split("|");
+                    if ( zf_ifrm_data.length == 2 || zf_ifrm_data.length == 3 ) {
+                        var zf_perma = zf_ifrm_data[0];
+                        var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+                        var iframe = document.getElementById("zf_div_Aaupx5drYhRAilJBfQ0_gbYqr1fnRXLY0HMyVWZfPDo").getElementsByTagName("iframe")[0];
+                        if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+                            var prevIframeHeight = iframe.style.height;
+                            var zf_tout = false;
+                            if( zf_ifrm_data.length == 3 ) {
+                                iframe.scrollIntoView();
+                                zf_tout = true;
+                            }
+                            if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+                                if( zf_tout ) {
+                                    setTimeout(function(){
+                                        iframe.style.height = zf_ifrm_ht_nw;
+                                    },500);
+                                } else {
+                                    iframe.style.height = zf_ifrm_ht_nw;
+                                }
+                            }
+                        }
+                    }
+                }
+            }, false);
+        }catch(e){}
+    })();
+    </script>
 
     <script>
         $(document).ready(function(){
